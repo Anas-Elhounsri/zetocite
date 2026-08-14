@@ -1,0 +1,24 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "zetocite",
+  "version": "1.1.0",
+  "description": "Generate data-availability citation blocks from BibTeX and DOI records.",
+  "identifier": "10.5281/zenodo.1234567",
+  "codeRepository": "https://github.com/Anas-Elhounsri/zetocite",
+  "readme": "https://github.com/Anas-Elhounsri/zetocite/blob/main/README.md",
+  "license": "MIT",
+  "programmingLanguage": {
+    "@type": "ComputerLanguage",
+    "name": "Python 3.11"
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Anas",
+      "familyName": "El Hounsri",
+      "email": "elhounsri.anas@gmail.com"
+    }
+  ],
+  "dateModified": "2026-10-29"
+}

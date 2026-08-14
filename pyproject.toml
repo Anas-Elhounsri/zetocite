@@ -1,0 +1,6 @@
+[project]
+name = "zetocite"
+version = "1.1.0"
+description = "Data-availability citation blocks from BibTeX and DOI records"
+requires-python = ">=3.9"
+license = { text = "MIT" }
